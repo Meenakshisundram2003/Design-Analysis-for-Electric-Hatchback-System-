@@ -32,3 +32,22 @@ Lower wishbone
 ![image](https://github.com/user-attachments/assets/22db626c-870d-4c9a-bfe7-c02495fdbb1d)
 
 a) Meshing b) Deformation c) Compressive force d) Tensile force
+
+Upper wishbone
+
+![image](https://github.com/user-attachments/assets/f731fb19-acbf-4e98-a786-b859698f8f57)
+
+a) Meshing b) Deformation c) Compressive force d) Tensile force
+
+Bolt
+
+![image](https://github.com/user-attachments/assets/2b7c8bfb-0f17-48ad-874a-36dd88a2534d)
+
+Total Deformation
+
+Bracket
+
+![image](https://github.com/user-attachments/assets/5a5daafc-1f15-4374-b675-88489c587837)
+
+(a) Total Deformation                                                          (b) Equivalent Stress
+
