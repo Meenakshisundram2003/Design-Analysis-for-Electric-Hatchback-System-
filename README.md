@@ -5,29 +5,30 @@ Designed double wishbone suspension system for electric hatchbacks by leveraging
 
 Top view
 
-![image](https://github.com/user-attachments/assets/714b6a9c-3641-4402-ac9a-25fadb488c98)
+![image](https://github.com/user-attachments/assets/0a6be178-5f5c-449a-b076-6ba00a7cf946)
 
 Isometric view
 
-![image](https://github.com/user-attachments/assets/cb4ba62e-dbf4-4701-9918-23a8b36a72b9)
+![image](https://github.com/user-attachments/assets/470a40aa-14a6-465f-bc5e-1169080c4af4)
 
 Bolt
 
-![image](https://github.com/user-attachments/assets/f19ab19a-9929-4925-a25e-285850a525ca)
+![image](https://github.com/user-attachments/assets/ad07b56a-9573-4839-ae8d-d2d175d386d4)
 
 Bracket
 
-![image](https://github.com/user-attachments/assets/16841019-386b-4dea-bf5f-1f98d57c8a39)
+![image](https://github.com/user-attachments/assets/5d18e0c3-924e-4f1c-b012-a6dc37eb3fe5)
 
 # Fusion 360 
 
 Spring
 
-![image](https://github.com/user-attachments/assets/e40ba1e8-9931-4c1a-8a68-8bae2c47847f)
+![image](https://github.com/user-attachments/assets/6cb32ade-07d2-4c5f-b8d6-d09bc65cab1b)
 
 # ANSYS Analysis
 
 Lower wishbone
 
 ![image](https://github.com/user-attachments/assets/22db626c-870d-4c9a-bfe7-c02495fdbb1d)
+
 a) Meshing b) Deformation c) Compressive force d) Tensile force
