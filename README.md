@@ -44,7 +44,7 @@ Designed a double wishbone suspension system for electric hatchbacks by leveragi
 
 
 ### Bolt
-*Total Deformation*
+#### *Total Deformation*
 <img src="https://github.com/user-attachments/assets/2b7c8bfb-0f17-48ad-874a-36dd88a2534d" width="800" height="450">
 
 ### Bracket
